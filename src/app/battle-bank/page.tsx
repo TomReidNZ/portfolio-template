@@ -1,7 +1,8 @@
-export default function Home() {
+
+export default function BattleBankPage() {
   return (
     <main className="flex min-h-screen flex-col">
-      Home page
+      BattleBankPage
     </main>
   );
 }
