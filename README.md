@@ -2,6 +2,7 @@
 
 This project is a barebones template I've made so Lily can get some standard html / css done and deploy a decent portfolio website. This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). Some quick notes:
 
+* To get started, fork this repo and start the dev server (npm install if you need)
 * The pages are already made:
     * Home page (page.tsx in the main folder)
     * About
