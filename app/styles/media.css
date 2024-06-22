@@ -1,0 +1,464 @@
+
+
+/* home page */
+
+@media (max-width: 1350px) { 
+    .battle_hero .content ul li{
+        font-size: 10px;
+    }
+    .more-projects .content h6{
+        font-size: 11px;
+    }
+    .more-projects .content ul li {
+        margin: 3px 2px;
+        padding: 3px 5px;
+        font-size: 7px;
+    }
+    .more-projects .content a{
+        font-size: 8px;
+    }
+    .more-projects .content ul{
+        margin-bottom: 0;
+    }
+    .more-projects .row{
+        align-items: center;
+    }
+    .battle_hero .content h4 {
+        font-size: 20px;
+        margin-bottom: 8px;
+      }
+      .battle_hero .content p {
+        font-size: 13px !important;
+        line-height: normal !important;
+        margin-bottom: 4px;
+      }
+      .battle_hero .content h6{
+        margin-top: 5px;
+      }
+      .battle_hero .content .buttons .btn-primary {
+        font-size: 14px;
+        height: 36px;
+        line-height: 29px;
+        margin-bottom: 6px;
+      }
+      .flow-gallery .image {
+        margin: 0 -13px;
+      }
+      .outside .content p {
+        min-height: auto;
+        height: 10rem;
+      }
+      .more-projects .content{
+        height: 110px;
+      }
+      .more-projects .content .content{
+        height: auto;
+      }
+ }
+ @media (max-width: 1160px) {
+    .battle_hero .content p {
+      font-size: 10px !important;
+      line-height: normal !important;
+      margin-bottom: 4px;
+    }
+    .battle_hero .content span {
+        font-size: 9px;
+        line-height: 11px !important;
+    }
+  }
+@media (max-width: 991.98px) {
+    .banner .content h3{
+        font-size: 32px;
+        line-height: 40px;
+        padding-left: 0;
+    }
+    .flow-gallery .image {
+        margin: 0 -1px;
+      }
+    .wrapper{
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .battle_hero .content h4 {
+        font-size: 28px;
+        font-weight: 500;
+        color: #525259;
+        margin-bottom: 20px;
+      }
+      .battle_hero .content p {
+        font-size: 14px !important;
+        line-height: 18px !important;
+        margin-bottom: 7px;
+      }
+      .battle_hero .content span {
+        font-size: 13px;
+        line-height: 11px !important;
+      }
+      .battle_hero .content ul li {
+        font-size: 13px;
+        padding: 5px 10px;
+      }
+      .battle_hero .content ul{
+        margin-top: 10px;
+      }
+      .battle_hero .content .buttons {
+        margin: auto;
+        margin-top: 24px;
+      }
+      .home_widgets .widget_single .content h3{
+        font-size: 18px;
+      }
+      .home_widgets .widget_single .content p {
+        font-size: 10pt;
+        line-height: 16px;
+        margin-bottom: 5px;
+      }
+      .battle_hero .content h4{
+        font-size: 28px;
+      }
+      .battle_hero .content{
+        font-size: 16px !important; 
+      }
+      .battle_hero .content ul li {
+        font-size: 13px !important;
+        padding: 5px 10px !important;
+      }
+}
+@media (max-width: 767.98px) {
+    .header::before {
+        max-width: 100%;
+        height: 50%;
+        top: inherit;
+        bottom: 0;
+    }
+    .menu-bottom{
+        display: none;
+    }
+    .banner{
+        padding: 30px 0;
+        text-align: center;
+    }
+    .banner .content h3{
+        text-align: left;
+    }
+    .home_widgets .widget_single .content{
+        padding: 20px;
+    }
+    .testimonials .content p{
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .testimonials .brand h6{
+        font-size: 9px;
+    }
+    .testimonials .line{
+        display: none;
+    }
+    .footer .menu-bottom{
+        float: right;
+    }
+    .footer h5{
+        text-align: left;
+    }
+    .footer .footer-widget{
+        padding: 0 20px;
+    }
+    .project_goals .content h1{
+        font-size: 50px;
+    }
+    .home_widgets .widget_single .content h3 {
+        font-size: 24px;
+    }
+    .home_widgets .widget_single .content p {
+        font-size: 14pt;
+        line-height: 24px;
+    }
+    .outside .content p {
+        min-height: auto;
+        height: auto;
+      }
+ }
+@media (max-width: 575.98px) { 
+    .frame.frame2{
+        display: none;
+    }
+    .banner .content h3{
+        text-align: left;
+        line-height: 38px;
+    }
+    .menu-bottom{
+        display: none;
+    }
+    .headline{
+        padding-top: 20px;
+    }
+    .home_widgets .widget_single{
+        display: block;
+    }
+    .home_widgets .widget_single .thubmnail{
+        max-width: 100%;
+    }
+    .home_widgets .widget_single .content {
+        padding: 20px;
+        text-align: left;
+    }
+    .home_widgets .widget_single .content ul{
+        justify-content: left;
+    }
+    .home_widgets{
+        padding-bottom: 0;
+    }
+    .home_widgets .widget_single .content h3{
+        font-size: 19px;
+    }
+    .home_widgets .widget_single .content p{
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .home_widgets .widget_single .widget_btn{
+        font-size: 10px;
+    }
+    .home_widgets .widget_single .content ul li a{
+        font-size: 12px;
+    }
+    .g-5, .gy-5 {
+        --bs-gutter-y: 0rem;
+    }
+    .testimonials{
+        padding-top: 0;
+    }
+    .testimonials .line{
+        display: none;
+    }
+    .footer .container{
+        padding: 20px;
+    }
+    .footer .menu-bottom{
+        display: block;
+        
+    }
+    .footer .menu-bottom li:first-child,
+    .footer .menu-bottom li:nth-child(2),
+    .footer .menu-bottom li:nth-child(3){
+        display: none;
+    }
+    .footer h5{
+        text-align: left;
+    }
+    .battle_hero .content ul li {
+        font-size: 7px !important;
+        padding: 4px !important;
+    }
+ }
+
+ @media (max-width: 460px) { 
+    .banner .content h3 {
+        font-size: 23px;
+        line-height: normal;
+        letter-spacing: 2px;
+    }
+    .menu-bottom{
+        margin-top: .5em;
+    }
+    .menu-bottom li a{
+        font-size: 10px;
+    }
+    .menu-bottom li {
+        margin: 5px ;
+    }
+    .menu-bottom li:nth-child(3) {
+        padding-left: 0;
+    }
+  }
+
+/* end home page */
+
+
+/* battled page */
+@media (max-width: 1199.98px) {
+    .battle_hero .content h4{
+        font-size: 22px;
+    }
+    .battle_hero .content p{
+        font-size: 13px;
+        line-height: 18px;
+    }
+    .battle_hero .content ul li{
+        font-size: 8px;
+        padding: 5px;
+    }
+    .battle_hero .content{
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .battled p, .flow-logic .content ol li, .ch-content ol li{
+        font-size: 14px !important;
+    }
+    .more-projects .content{
+        height: auto;
+    }
+    .more-projects .content{
+        gap: 5px;
+    }
+    .more-projects .content h6 {
+        font-size: 10px;
+    }
+    .more-projects .content ul li {
+        margin: 3px 1px;
+        padding: 3px 2px;
+        font-size: 6px;
+    }
+ }
+@media (max-width: 991.98px) {
+    .user-arch .content .box{
+        height: auto;
+    }
+    .more-projects .content {
+        height: 122px;
+    }
+    .more-projects .content .content{
+        height: auto;
+    }
+    .more-projects .content h6 {
+        font-size: 10px;
+        color: rgb(39, 43, 50);
+        font-weight: 400;
+    }
+    .more-projects .content ul li {
+        float: left;
+        background: rgb(213, 229, 227);
+        margin: 3px;
+        padding: 2px 4px;
+        display: block;
+        text-decoration: none;
+        font-size: 8px;
+        color: rgb(109, 109, 120);
+        font-weight: 400;
+        text-transform: uppercase;
+        border-radius: 15px;
+        transition: 0.3s;
+    }
+    .more-projects .content a {
+        text-decoration: none;
+        font-size: 8px;
+        text-transform: uppercase;
+        color: rgb(82, 82, 89);
+        font-weight: 500;
+        transition: .3s;
+    }
+ }
+@media (max-width: 767.98px) {
+    .battle_hero .content{
+        padding: 20px;
+    }
+    .more-projects .content {
+        height: auto;
+        display: block;
+    }
+    .more-projects .content .content{
+        height: auto;
+        min-height: auto;
+    }
+    .more-projects .content .text-content {
+        padding: 10px 12px;
+        height: 75px;
+        width: 100%;
+    }
+    .more-projects .content a{
+        display: none;
+    }
+    .outside .line{
+        display: none;
+    }
+    .footer .menu-bottom{
+        display: block !important;
+    }
+    .footer .menu-bottom li:first-child, .footer .menu-bottom li:nth-child(2), .footer .menu-bottom li:nth-child(3) {
+        display: none;
+    }
+    #abhd::before {
+        max-width: 100%;
+        height: 50%;
+        top: inherit;
+        bottom: 0;
+    }
+    .dfk12{
+        display: none;
+    }
+ }
+@media (max-width: 575.98px) { 
+    .more-projects .content .content{
+        text-align: left;
+    }
+    .more-projects .content ul{
+        justify-content: center;
+    }
+    .battle_hero .content .buttons{
+        max-width: 100%;
+    }
+    .discovery, .design-features, .ch-content {
+        padding: 20px 0;
+    }
+    .discovery .content p{
+        margin-bottom: 10px;
+    }
+    .more-projects .container-fluid{
+        max-width: 100%;
+    }
+    .more-projects .content h6{
+        font-size: 10px;
+        text-align: left;
+    }
+    .more-projects .content ul li{
+        font-size: 6px;
+        padding: 3px 5px;
+    }
+    .more-projects .content a{
+        font-size: 8px;
+    }
+    .about-banner img {
+        max-width: 90%;
+        margin: auto;
+        display: block;
+    }
+    .about-banner .content h5 {
+        font-size: 17px;
+        line-height: 25px;
+    }
+    .about-banner .content p, .about-banner .content p span{
+        font-size: 14px;
+    }
+    #abhd{
+        padding-bottom: 20px;
+    }
+    .about-banner .content .box{
+        margin-bottom: 0;
+        padding-right: 0;
+    }
+    .dfk12{
+        display: none;
+    }
+    .more-projects .content h6{
+        font-size: 10px;
+    }
+ }
+/* end battled page */
+
+
+@media (max-width: 370px) {
+    .more-projects .content {
+      height: 175px;
+    }
+    .more-projects .content .content{
+        height: auto;
+        padding-bottom: 0;
+    }
+  }
+
+
+
+
+/* @media (max-width: 1199.98px) {  }
+@media (max-width: 991.98px) { }
+@media (max-width: 767.98px) { }
+@media (max-width: 575.98px) {  }  */
