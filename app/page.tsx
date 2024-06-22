@@ -1,6 +1,6 @@
-import Link from 'next/link';
+import Link from "next/link";
 
-export default function Home() {
+const Home = () => {
   return (
     <main className="flex min-h-screen flex-col">
       <h1 className="text-2xl">Home page</h1>
@@ -10,4 +10,6 @@ export default function Home() {
       <Link href="/woodforest-national-bank">Woodforest National Bank</Link>
     </main>
   );
-}
+};
+
+export default Home;
